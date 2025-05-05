@@ -11,8 +11,8 @@ Bu proje, Bash ile yazılmış bir Caesar şifresi aracıdır. Metindeki harfler
 ## Kurulum
 1. Repoyu klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adin/PROCESS.git
-   cd repo4me
+   git clone https://github.com/zuhre1here/PROCESS.git
+   cd PROCESS
 
 
 Script’e çalıştırma izni verin:chmod +x ceasarbash.sh
