@@ -40,5 +40,4 @@ Seçim (1 veya 2): 1
 Metni gir: 
 Metin girmedin!
 
-Not
 ```
