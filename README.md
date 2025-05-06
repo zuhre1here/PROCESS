@@ -1,4 +1,4 @@
-# Caesar Şifresi (Bash)
+# Caesar Şifresi (Bash + Python)
 
 Bu proje, Bash ile yazılmış bir Caesar şifresi aracıdır. Metindeki harfleri 3 ileri (şifreleme) veya 3 geri (çözme) kaydırır. Boşluk, sayı gibi diğer karakterler değişmez.
 
@@ -17,9 +17,12 @@ Bu proje, Bash ile yazılmış bir Caesar şifresi aracıdır. Metindeki harfler
 
 Script’e çalıştırma izni verin:chmod +x ceasarbash.sh
 
+Python için version 3 olması önemlidir.
+
 Kullanım
 Script’i çalıştırın ve talimatları izleyin:
-./ceasarbash.sh
+./caesarbash.sh
+./caesar.py
 
 Örnekler
 Şifreleme
@@ -28,10 +31,22 @@ Seçim (1 veya 2): 1
 Metni gir: zuhre mi
 Sonuç: }xkuh pl
 
+//python vers:
+1-) Şifrele  2-) Çöz
+Seçiniz (1 veya 2): 1
+Metni girin: zuhre mi
+Sonuç: axiuh pl
+
 Çözme
 1) Şifrele  2) Çöz
 Seçim (1 veya 2): 2
 Metni gir: }xkuh pl
+Sonuç: zuhre mi
+
+//python:
+1) Şifrele  2) Çöz
+Seçim (1 veya 2): 2
+Metni gir: axkuh pl
 Sonuç: zuhre mi
 
 Hata: Boş Metin
