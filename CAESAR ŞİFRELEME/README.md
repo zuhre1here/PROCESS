@@ -8,23 +8,7 @@ Bu proje, Bash ile yazılmış bir Caesar şifresi aracıdır. Metindeki harfler
 - Kullanıcı dostu arayüz: Şifreleme veya çözme seçimi.
 - Hata kontrolü: Boş metin veya geçersiz seçim için uyarı.
 
-## Kurulum
-1. Repoyu klonlayın:
-   ```bash
-   git clone https://github.com/zuhre1here/PROCESS.git
-   cd PROCESS
-
-
-Script’e çalıştırma izni verin:chmod +x ceasarbash.sh
-
-Python için version 3 olması önemlidir.
-
-Kullanım
-Script’i çalıştırın ve talimatları izleyin:
-./caesarbash.sh
-./caesar.py
-
-Örnekler
+## Örnekler
 Şifreleme
 1) Şifrele  2) Çöz
 Seçim (1 veya 2): 1
